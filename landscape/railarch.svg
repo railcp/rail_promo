@@ -168,7 +168,11 @@
 	.st99{font-family:'RobotoMono-Bold';}
 </style>
 
-<g
+<path
+   class="st5"
+   d="m 1501.5813,309.59562 h -451.9 c -10.7,0 -19.4,-8.7 -19.4,-19.4 v -269.3 c 0,-10.7 8.7,-19.4000002 19.4,-19.4000002 h 451.8 c 10.7,0 19.4,8.7000002 19.4,19.4000002 v 269.4 c 0.1,10.7 -8.6,19.3 -19.3,19.3 z"
+   id="path48-2"
+   style="fill:#ffffff;stroke:#1e2837;stroke-width:2.5;stroke-miterlimit:10" /><g
    id="Lager_1-2_00000111180535557823632960000013643181150438161549_"
    transform="translate(-24.35,-30.639124)">
 	<path
@@ -3436,9 +3440,9 @@
    transform="translate(-22.99102,5.3795993)"><tspan
      x="287.81538"
      y="253.69737"
-     id="tspan5"><tspan
+     id="tspan3"><tspan
        style="font-weight:600;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn Semi-Bold';fill:#000000;stroke:none"
-       id="tspan4">FluxCD</tspan></tspan></text><path
+       id="tspan2">FluxCD</tspan></tspan></text><path
    class="st7"
    d="m 677.17552,311.25106 h -139 c -11.1,0 -20.1,-9 -20.1,-20.1 V 23.151056 c 0,-11.1 9,-20.0999999 20.1,-20.0999999 h 139 c 11.1,0 20.1,8.9999999 20.1,20.0999999 V 291.15106 c 0,11.2 -9,20.1 -20.1,20.1 z"
    id="path38-9"
@@ -3482,11 +3486,11 @@
    transform="translate(495.65278,5.4505549)"><tspan
      x="276.24245"
      y="253.69737"
-     id="tspan7"><tspan
+     id="tspan5"><tspan
        style="font-weight:600;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn Semi-Bold';fill:#000000;stroke:none"
-       id="tspan6">MetalLB</tspan></tspan></text><g
+       id="tspan4">MetalLB</tspan></tspan></text><g
    id="g2-7"
-   transform="matrix(2.4121925,0,0,2.4121925,1453.9929,-297.65284)"><g
+   transform="matrix(2.4121925,0,0,2.4121925,1403.5437,16.878924)"><g
      id="g4-6"><path
        style="fill:#ff8900;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.86393px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 48.667697,249.17039 H 160.50906 V 141.03791 Z"
@@ -3503,11 +3507,41 @@
    transform="translate(86.422414,18.170858)"><tspan
      x="780.19573"
      y="1716.1263"
-     id="tspan8">Part of Compliant Kubernetes by</tspan></text><text
+     id="tspan6">Part of Compliant Kubernetes by</tspan></text><text
    xml:space="preserve"
    id="text9-5"
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:42.6667px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn Semi-Bold';text-align:center;white-space:pre;shape-inside:url(#rect9-1);display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.12945;stroke-linejoin:round;stroke-opacity:1"
-   transform="translate(329.86535,-1531.9766)"><tspan
+   transform="translate(587.39602,-1386.4727)"><tspan
      x="979.35213"
      y="1716.1263"
-     id="tspan9">Provided by</tspan></text></svg>
+     id="tspan7">Provided by</tspan></text><style
+   id="style1-3">svg {enable-background:new 0 0 322.1 492.6}</style><style
+   id="style2-6">.st0{fill:#0091bd}</style><g
+   id="Layer_1-2"
+   transform="matrix(0.49648433,0,0,0.49648433,1276.7112,27.617374)"><g
+     id="g3"><path
+       d="M 318.6,122.9 H 236.5 V 95.5 h 54.6 V 31.6 H 249.4 V 67.9 H 181.9 V 31.6 H 141 V 67.9 H 71.5 V 31.6 H 32.4 v 63.9 h 52.8 v 27.4 H 4.9 V 4.1 H 99 v 36.3 h 14.5 V 4.1 h 95.9 v 36.3 h 12.5 V 4.1 h 96.7 z m -28.2,51.4 v 151 c -0.1,16.1 -13.1,29.1 -29.2,29.2 H 62.1 C 46.1,354.4 33,341.4 33,325.3 v -151 h 257.4 m 27.5,-27.5 H 5.5 v 178.9 c 0.3,31.1 25.5,56.1 56.6,56.2 h 199.1 c 31.2,-0.1 56.6,-25.4 56.6,-56.6 V 146.4 Z"
+       class="st0"
+       id="path2-7" /><path
+       d="m 161.7,229.5 c 16.4,0.1 29.6,13.3 29.7,29.7 v 31.6 H 132 v -31.6 c 0.1,-16.4 13.3,-29.6 29.7,-29.7 m 0,-27.4 c -31.6,0 -57.1,25.6 -57.1,57.1 v 58.6 h 114.3 v -58.6 c -0.1,-31.6 -25.6,-57.1 -57.2,-57.1 z"
+       class="st0"
+       id="path3-5" /></g><g
+     id="g4-3"><path
+       fill="#546a79"
+       d="M 13.5,487.8 H 4.9 v -75.9 h 36.3 c 15.6,0 25.5,9.3 25.5,23.7 0,14.4 -9.8,19.6 -18.3,21.5 l 19.9,30.6 H 58.1 l -18.3,-29 H 13.5 Z m 0,-37.2 h 26.2 c 8.2,0 18.4,-3.1 18.4,-14.9 0,-9.6 -7.2,-15.6 -18,-15.6 H 13.5 Z M 154,449.9 c 0,21.5 -15.5,38.8 -38.5,38.8 -23,0 -38.5,-17.3 -38.5,-38.8 0,-21.5 15.5,-38.8 38.6,-38.8 23.1,0 38.4,17.3 38.4,38.8 z m -8.6,0 c 0,-17.1 -11.5,-30.5 -30,-30.5 -18.5,0 -29.8,13.4 -29.8,30.5 0,17.1 11.5,30.5 30,30.5 18.5,0 29.8,-13.4 29.8,-30.5 z m 95.3,0 c 0,21.5 -15.5,38.8 -38.5,38.8 -23,0 -38.5,-17.3 -38.5,-38.8 0,-21.5 15.5,-38.8 38.5,-38.8 23,0 38.5,17.3 38.5,38.8 z m -8.6,0 c 0,-17.1 -11.5,-30.5 -30,-30.5 -18.5,0 -30,13.4 -30,30.5 0,17 11.5,30.5 30,30.5 18.5,0 30,-13.4 30,-30.5 z m 51.8,-7.4 34.1,45.3 H 307.2 L 277.5,448.3 261.9,463 v 24.9 h -8.6 v -76 h 8.6 v 39.6 l 42.2,-39.6 h 12.1 z"
+       id="path4-5" /></g></g><path
+   class="st7"
+   d="m 1189.3068,311.49668 h -139 c -11.1,0 -20.1,-9 -20.1,-20.1 V 23.396676 c 0,-11.1 9,-20.1000002 20.1,-20.1000002 h 139 c 11.1,0 20.1,9.0000002 20.1,20.1000002 V 291.39668 c 0,11.2 -9,20.1 -20.1,20.1 z"
+   id="path38-9-9"
+   style="fill:#ff8900;fill-opacity:1;stroke:#1e2837;stroke-width:2.5;stroke-miterlimit:10" /><text
+   xml:space="preserve"
+   style="font-weight:600;font-size:42.6667px;font-family:Vazirmatn;-inkscape-font-specification:'Vazirmatn Semi-Bold';text-align:center;text-anchor:middle;fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:35;stroke-linejoin:round"
+   x="-155.87369"
+   y="1127.2833"
+   id="text1"
+   transform="rotate(-90)"><tspan
+     sodipodi:role="line"
+     id="tspan1"
+     x="-155.87369"
+     y="1127.2833"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vazirmatn;-inkscape-font-specification:Vazirmatn">Storage</tspan></text></svg>
